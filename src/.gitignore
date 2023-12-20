@@ -1,0 +1,7 @@
+# .gitignore
+
+# Node.js
+node_modules/
+
+# Configuración específica del entorno
+/src/config/.env
