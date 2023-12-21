@@ -66,6 +66,7 @@ npm install
 ```
 
 ## Estructura del Proyecto - Carpetas y Archivos
+```markdown
 
 api-productos-mongo-v2/
 ├── src/
@@ -93,7 +94,7 @@ api-productos-mongo-v2/
 ├── package.json                # Archivo que contiene la información sobre el proyecto, las dependencias y los scripts de npm.
 └── README.md                   # Archivo con la documentación principal del proyecto.
 
-
+```
 ## Puntos finales
 
 ### Mostrar Productos
