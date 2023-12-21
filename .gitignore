@@ -5,3 +5,5 @@
 
 # Configuración específica del entorno
 /src/config/.env
+
+/main/
